@@ -395,31 +395,46 @@ export default function Home() {
             </div>
             <div className="border-l-4 border-teal-500 pl-4 sm:pl-6 pb-6">
               <h4 className="text-lg sm:text-xl font-medium text-gray-800 dark:text-white">
-                Senior Cloud Architect - Twilio
+                Senior Cloud Architect - Mindtree
               </h4>
               <p className="text-sm sm:text-base text-gray-600 dark:text-gray-300">
                 August 2016 - April 2019
               </p>
               <ul className="list-disc list-inside text-sm sm:text-md md:text-lg leading-8 text-gray-800 dark:text-gray-100">
                 <li>
-                  Designed scalable cloud infrastructure across AWS and Azure
+                  Designed and managed scalable, high-availability cloud
+                  infrastructure across AWS and Azure to support enterprise
+                  applications, ensuring optimal performance and resilience.
                 </li>
                 <li>
-                  Built CI/CD pipelines with Jenkins, GitHub CI, and Docker
+                  Built and optimized CI/CD pipelines using Jenkins, GitLab CI,
+                  and Docker, significantly reducing deployment times and
+                  increasing development agility.
                 </li>
                 <li>
-                  Engineered data warehousing with Google BigQuery and Amazon
-                  Redshift
+                  Developed an enterprise-grade data warehousing solution with
+                  Google BigQuery and Amazon Redshift, enhancing data
+                  accessibility and analytical capabilities.
                 </li>
                 <li>
-                  Integrated serverless architectures with AWS Lambda and Azure
-                  Functions
+                  Implemented a robust monitoring and alerting ecosystem with
+                  Prometheus, Grafana, and the ELK Stack, enabling real-time
+                  performance tracking and incident response.
                 </li>
                 <li>
-                  Enhanced monitoring with Prometheus, Grafana, and ELK Stack
+                  Integrated automated security and compliance checks within the
+                  CI/CD lifecycle, proactively mitigating vulnerabilities and
+                  ensuring secure software delivery.
+                </li>
+                <li>
+                  Led cloud cost optimization initiatives by implementing
+                  rightsizing strategies and leveraging reserved instances,
+                  resulting in significant reductions in operational expenses
+                  without compromising performance.
                 </li>
               </ul>
             </div>
+
             <div className="border-l-4 border-teal-500 pl-4 sm:pl-6 pb-6">
               <h4 className="text-lg sm:text-xl font-medium text-gray-800 dark:text-white">
                 Site Reliability Engineer - Contino
